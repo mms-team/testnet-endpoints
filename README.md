@@ -1,2 +1,3 @@
-# testnet-endpoints
-Public endpoints for testnets
+# Public endpoints for testnets
+Feel free to use=)
+
