@@ -8,17 +8,17 @@ Feel free to use=)
 | CELESTIA | # | # | # |
 | CROWDCONTROL | # | # | # |
 | DEFUND | # | # | # |
-| <span style="color:blue">*EMPOWER*</span> | # | # | # |
+| 🔴EMPOWER | # | # | # |
 | GITOPIA | # | # | # |
-| KYVE-BETA | # | # | # |
+| ⚠️KYVE-BETA | # | # | # |
 | MANDE | # | # | # |
-| NEUTRON | # | # | # |
+| ⚠️NEUTRON | # | # | # |
 | NIBIRU | # | # | # |
 | NOMIC | # | # | # |
 | PYLONS | # | # | # |
 | QUICKSILVER | # | # | # |
 | SEI | # | # | # |
-| SEUPERNOVA | # | # | # |
+| SUPERNOVA | # | # | # |
 | SOURCE | # | # | # |
-| SUI | # | # | # |
+| ⚠️SUI | # | # | # |
 | UPTICK | # | # | # |
