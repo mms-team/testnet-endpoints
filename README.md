@@ -1,24 +1,30 @@
 # Public endpoints for testnets
+
+Legend:
+✅️ - works good
+🔴 - network is down
+⚠️ - fixing/updating
+
 Feel free to use=)
 
 | Project | RPC | API | gRPC |
 | ------ | ------ | ------ | ------ |
-| Aura Network | https://rpc-aura-testnet.mms.team/ | https://api-aura-testnet.mms.team/ | https://grpc-aura-testnet.mms.team/ |
-| ANDROMA | # | # | # |
-| CELESTIA | # | # | # |
-| CROWDCONTROL | # | # | # |
-| DEFUND | # | # | # |
+| ✅️Aura Network | https://rpc-aura-testnet.mms.team/ | https://api-aura-testnet.mms.team/ | https://grpc-aura-testnet.mms.team/ |
+| ✅️ANDROMA | # | # | # |
+| ✅️CELESTIA | # | # | # |
+| ✅️CROWDCONTROL | # | # | # |
+| ✅️DEFUND | # | # | # |
 | 🔴EMPOWER | # | # | # |
-| GITOPIA | # | # | # |
+| ✅️GITOPIA | # | # | # |
 | ⚠️KYVE-BETA | # | # | # |
-| MANDE | # | # | # |
+| ✅️MANDE | # | # | # |
 | ⚠️NEUTRON | # | # | # |
-| NIBIRU | # | # | # |
-| NOMIC | # | # | # |
-| PYLONS | # | # | # |
-| QUICKSILVER | # | # | # |
-| SEI | # | # | # |
-| SUPERNOVA | # | # | # |
-| SOURCE | # | # | # |
+| ✅️NIBIRU | # | # | # |
+| ✅️NOMIC | # | # | # |
+| ✅️PYLONS | # | # | # |
+| ✅️QUICKSILVER | # | # | # |
+| ✅️SEI | # | # | # |
+| ✅️SUPERNOVA | # | # | # |
+| ✅️SOURCE | # | # | # |
 | ⚠️SUI | # | # | # |
-| UPTICK | # | # | # |
+| ✅️UPTICK | # | # | # |
