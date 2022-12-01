@@ -1,6 +1,6 @@
 # Public endpoints for testnets
 
-Legend:
+Legend: 
 ✅️ - works good
 🔴 - network is down
 ⚠️ - fixing/updating
@@ -9,7 +9,7 @@ Feel free to use=)
 
 | Project | RPC | API | gRPC |
 | ------ | ------ | ------ | ------ |
-| ✅️Aura Network | https://rpc-aura-testnet.mms.team/ | https://api-aura-testnet.mms.team/ | https://grpc-aura-testnet.mms.team/ |
+| ✅️Aura Network   | https://rpc-aura-testnet.mms.team/ | https://api-aura-testnet.mms.team/ | https://grpc-aura-testnet.mms.team/ |
 | ✅️ANDROMA | # | # | # |
 | ✅️CELESTIA | # | # | # |
 | ✅️CROWDCONTROL | # | # | # |
