@@ -1,21 +1,8 @@
 # Public endpoints for testnets
 Feel free to use=)
 
-AURA_Euphoria-2
-KYVE-BETA
-PYLONS
-QUICKSILVER
-SEI
-SOURCE
-CROWDCONTROL
-NOMIC
-DEFUND
-EMPOWER
-UPTICK
-MANDE
-GITOPIA
-SUI
-NEUTRON
-NIBIRU
-CELESTIA
-ANDROMA
+
+| Project Name | API | RPC | gRPC |
+Aura Network | https://api-aura-testnet.mms.team/ | https://rpc-aura-testnet.mms.team | https://grpc-aura-testnet.mms.team/ |
+|  |  |
+
