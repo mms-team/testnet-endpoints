@@ -8,7 +8,7 @@ Feel free to use=)
 | CELESTIA | # | # | # |
 | CROWDCONTROL | # | # | # |
 | DEFUND | # | # | # |
-| EMPOWER | # | # | # |
+| <span style="color:blue">EMPOWER</span> | # | # | # |
 | GITOPIA | # | # | # |
 | KYVE-BETA | # | # | # |
 | MANDE | # | # | # |
