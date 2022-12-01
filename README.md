@@ -10,12 +10,12 @@ Feel free to use=)
 | Project | RPC | API | gRPC |
 | ------ | ------ | ------ | ------ |
 | ✅️Aura Network   | https://rpc-aura-testnet.mms.team/ | https://api-aura-testnet.mms.team/ | https://grpc-aura-testnet.mms.team/ |
-| ✅️ANDROMA | https://rpc-androma-testnet.mms.team/ | # | # |
-| ✅️CELESTIA | # | # | # |
-| ✅️CROWDCONTROL | # | # | # |
-| ✅️DEFUND | # | # | # |
+| ✅️ANDROMA | https://rpc-androma-testnet.mms.team/ | https://api-androma-testnet.mms.team | https://grpc-androma-testnet.mms.team |
+| ✅️CELESTIA | https://rpc-celestia-testnet.mms.team/ | https://api-celestia-testnet.mms.team | https://grpc-celestia-testnet.mms.team |
+| ✅️CROWDCONTROL | https://rpc-CrowdControl-testnet.mms.team/ | https://api-CrowdControl-testnet.mms.team | https://grpc-CrowdControl-testnet.mms.team |
+| ✅️DEFUND | https://rpc-defund-testnet.mms.team/ | https://api-defund-testnet.mms.team | https://grpc-defund-testnet.mms.team |
 | 🔴EMPOWER | # | # | # |
-| ✅️GITOPIA | # | # | # |
+| ✅️GITOPIA | https://rpc-gitopia-testnet.mms.team/ | https://api-gitopia-testnet.mms.team | https://grpc-gitopia-testnet.mms.team |
 | ⚠️KYVE-BETA | # | # | # |
 | ✅️MANDE | # | # | # |
 | ⚠️NEUTRON | # | # | # |
