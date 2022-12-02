@@ -28,3 +28,4 @@ Feel free to use=)
 | ✅️SOURCE | https://rpc-sourcechain-testnet.mms.team/ | https://api-sourcechain-testnet.mms.team | https://grpc-sourcechain-testnet.mms.team |
 | ⚠️SUI | # | # | # |
 | ✅️UPTICK | https://rpc-uptick-testnet.mms.team/ | https://api-uptick-testnet.mms.team | https://grpc-uptick-testnet.mms.team |
+| ✅️JACKAL | https://rpc-jackal-testnet.mms.team/ | https://api-jackal-testnet.mms.team | https://grpc-jackal-testnet.mms.team | 
