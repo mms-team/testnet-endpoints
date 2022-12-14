@@ -21,7 +21,7 @@ Feel free to use=)
 | 🔴NEUTRON | https://rpc-testnet-quark-1.mms.team/ | https://api-testnet-quark-1.mms.team | https://grpc-testnet-quark-1.mms.team |
 | ✅️NIBIRU | https://rpc-nibiru-testnet.mms.team/ | https://api-nibiru-testnet.mms.team | https://grpc-nibiru-testnet.mms.team |
 | ✅️NOMIC | https://rpc-nomic-testnet.mms.team/ | # | # |
-| ✅️PYLONS | https://rpc-pylons-testnet.mms.team/ | https://api-pylons-testnet.mms.team | https://grpc-pylons-testnet.mms.team |
+| 🔴PYLONS | https://rpc-pylons-testnet.mms.team/ | https://api-pylons-testnet.mms.team | https://grpc-pylons-testnet.mms.team |
 | ⚠️QUICKSILVER | https://rpc-quicksilver-innuendo-3.deficamp.one/ | https://api-quicksilver-innuendo-3.deficamp.one | https://grpc-quicksilver-innuendo-3.deficamp.one |
 | ✅️SEI | https://rpc-sei-testnet.mms.team/ | https://api-sei-testnet.mms.team | https://grpc-sei-testnet.mms.team |
 | ⚠️SUPERNOVA | # | # | # |
