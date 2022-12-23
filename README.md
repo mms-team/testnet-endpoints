@@ -29,3 +29,4 @@ Feel free to use=)
 | ⚠️SUI | # | # | # |
 | ✅️UPTICK | https://rpc-uptick-testnet.mms.team/ | https://api-uptick-testnet.mms.team | https://grpc-uptick-testnet.mms.team |
 | ✅️JACKAL | https://rpc-jackal-testnet.mms.team/ | https://api-jackal-testnet.mms.team | https://grpc-jackal-testnet.mms.team | 
+| ✅️HUMANS | https://rpc-humans-testnet.mms.team/ | https://api-humans-testnet.mms.team | https://grpc-humans-testnet.mms.team |
