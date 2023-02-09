@@ -30,4 +30,5 @@ Feel free to use=)
 | ✅️UPTICK | https://rpc-uptick-testnet.mms.team/ | https://api-uptick-testnet.mms.team | https://grpc-uptick-testnet.mms.team |
 | ✅️JACKAL | https://rpc-jackal-testnet.mms.team/ | https://api-jackal-testnet.mms.team | https://grpc-jackal-testnet.mms.team | 
 | ✅️HUMANS | https://rpc-humans-testnet.mms.team/ | https://api-humans-testnet.mms.team | https://grpc-humans-testnet.mms.team |
-| ✅️NOLUS | https://rpc-nolus-testnet.mms.team/ |https://api-nolus-testnet.mms.team | https://grpc-nolus-testnet.mms.team |
+| ✅️NOLUS | https://rpc-nolus-testnet.mms.team/ | https://api-nolus-testnet.mms.team | https://grpc-nolus-testnet.mms.team |
+| ✅️BABYLON | https://rpc-babylon-testnet.mms.team/ | https://api-babylon-testnet.mms.team | https://grpc-babylon-testnet.mms.team |
