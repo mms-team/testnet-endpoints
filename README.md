@@ -15,7 +15,7 @@ Feel free to use=)
 | ✅️CROWDCONTROL | https://rpc-CrowdControl-testnet.mms.team/ | https://api-CrowdControl-testnet.mms.team | https://grpc-CrowdControl-testnet.mms.team |
 | ✅️DEFUND | https://rpc-defund-testnet.mms.team/ | https://api-defund-testnet.mms.team | https://grpc-defund-testnet.mms.team |
 | 🔴EMPOWER | # | # | # |
-| ⚠️GITOPIA | https://rpc-gitopia-testnet.mms.team/ | https://api-gitopia-testnet.mms.team | https://grpc-gitopia-testnet.mms.team |
+| ✅️GITOPIA | https://rpc-gitopia-testnet.mms.team/ | https://api-gitopia-testnet.mms.team | https://grpc-gitopia-testnet.mms.team |
 | ✅️Kyve_Kaon | https://rpc-kyve-testnet.mms.team/ | https://api-kyve-testnet.mms.team | https://grpc-kyve-testnet.mms.team |
 | ✅️MANDE | https://rpc-mande-testnet.mms.team/ | https://api-mande-testnet.mms.team | https://grpc-mande-testnet.mms.team |
 | 🔴NEUTRON | https://rpc-testnet-quark-1.mms.team/ | https://api-testnet-quark-1.mms.team | https://grpc-testnet-quark-1.mms.team |
