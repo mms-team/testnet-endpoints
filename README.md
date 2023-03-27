@@ -30,3 +30,4 @@ Feel free to use=)
 | ✅️HUMANS | https://rpc-humans-testnet.mms.team/ | https://api-humans-testnet.mms.team | https://grpc-humans-testnet.mms.team |
 | ✅️NOLUS | https://rpc-nolus-testnet.mms.team/ | https://api-nolus-testnet.mms.team | https://grpc-nolus-testnet.mms.team |
 | ✅️BABYLON | https://rpc-babylon-testnet.mms.team/ | https://api-babylon-testnet.mms.team | https://grpc-babylon-testnet.mms.team |
+| ✅️ALTHEA | https://rpc-althea-testnet.mms.team/ | https://api-althea-testnet.mms.team |https://grpc-althea-testnet.mms.team |
