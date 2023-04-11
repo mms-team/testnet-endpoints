@@ -34,3 +34,4 @@ Feel free to use=)
 | ✅️SAO| https://rpc-sao-testnet.mms.team/ | https://api-sao-testnet.mms.team | https://grpc-sao-testnet.mms.team |
 | ✅️SGE| https://rpc-sge-testnet.mms.team/ | https://api-sge-testnet.mms.team | https://grpc-sge-testnet.mms.team |
 | ✅️TERP| https://rpc-terp-testnet.mms.team/ | https://api-terp-testnet.mms.team | https://grpc-terp-testnet.mms.team |
+| ✅️ARCHWAY | https://rpc-archway-testnet.mms.team | https://api-archway-testnet.mms.team | https://grpc-archway-testnet.mms.team |
