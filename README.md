@@ -16,7 +16,6 @@ Feel free to use=)
 | 🔴EMPOWER | # | # | # |
 | ✅️GITOPIA | https://rpc-gitopia-testnet.mms.team/ | https://api-gitopia-testnet.mms.team | https://grpc-gitopia-testnet.mms.team |
 | ✅️Kyve_Kaon | https://rpc-kyve-testnet.mms.team/ | https://api-kyve-testnet.mms.team | https://grpc-kyve-testnet.mms.team |
-| ✅️MANDE | https://rpc-mande-testnet.mms.team/ | https://api-mande-testnet.mms.team | https://grpc-mande-testnet.mms.team |
 | 🔴NEUTRON | https://rpc-testnet-quark-1.mms.team/ | https://api-testnet-quark-1.mms.team | https://grpc-testnet-quark-1.mms.team |
 | ✅️NIBIRU | https://rpc-nibiru-testnet.mms.team/ | https://api-nibiru-testnet.mms.team | https://grpc-nibiru-testnet.mms.team |
 | ✅️NOMIC | https://rpc-nomic-testnet.mms.team/ | # | # |
